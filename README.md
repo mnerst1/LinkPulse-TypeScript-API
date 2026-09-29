@@ -2,6 +2,9 @@
 
 A URL shortener REST API with SQLite analytics, built with **Node.js, TypeScript and Express**.
 
+<img width="900" alt="{98004A37-0E14-4940-AF53-8660A2C29069}" src="https://github.com/user-attachments/assets/d63d88f9-816f-4e0a-9847-db92dfa43112" />
+
+
 **Day 010 of my 365 Days of Code challenge.**
 
 ## 🇬🇧 English
